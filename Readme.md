@@ -11,9 +11,9 @@
 
 ## Deployed Application
 
-[GitHub URL] (https://test-editor-jenny.herokuapp.com/)
+[GitHub URL] (https://jennyzzhh.github.io/Myportfolio/)
 
 
 ## GitHub repository
 
-[Github link] (https://github.com/Jennyzzhh/Module19_Progressive-Web-Applications-PWA-Challenge-Text-Editor.git)
+[Github link] (https://github.com/Jennyzzhh/Myportfolio.git)
