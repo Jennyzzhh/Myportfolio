@@ -45,7 +45,7 @@ const ProjectItem = ({ project }) => {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div class="course-item bg-light">
                 <div class="position-relative overflow-hidden">
-                  <img class="img-fluid" src="img/course-2.jpg" alt="" />
+                  <img class="img-fluid" src="img/CSS.jpeg" alt="" />
                   <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
                       href="flower-emporium.herokuapp.com/"
@@ -76,7 +76,7 @@ const ProjectItem = ({ project }) => {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="course-item bg-light">
                 <div class="position-relative overflow-hidden">
-                  <img class="img-fluid" src="img/course-3.jpg" alt="" />
+                  <img class="img-fluid" src="img/CSS.jpeg" alt="" />
                   <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
                       href="https://taada33.github.io/Movie-Selector/"
@@ -106,7 +106,7 @@ const ProjectItem = ({ project }) => {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="course-item bg-light">
                 <div class="position-relative overflow-hidden">
-                  <img class="img-fluid" src="img/course-3.jpg" alt="" />
+                  <img class="img-fluid" src="img/CSS.jpeg" alt="" />
                   <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
                       href="#"
@@ -136,7 +136,7 @@ const ProjectItem = ({ project }) => {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="course-item bg-light">
                 <div class="position-relative overflow-hidden">
-                  <img class="img-fluid" src="img/course-3.jpg" alt="" />
+                  <img class="img-fluid" src="img/CSS.jpeg" alt="" />
                   <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
                       href="#"
@@ -166,7 +166,7 @@ const ProjectItem = ({ project }) => {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="course-item bg-light">
                 <div class="position-relative overflow-hidden">
-                  <img class="img-fluid" src="img/course-3.jpg" alt="" />
+                  <img class="img-fluid" src="img/CSS.jpeg" alt="" />
                   <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
                     <a
                       href="https://test-editor-jenny.herokuapp.com/"

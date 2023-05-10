@@ -11,7 +11,7 @@ export default function Resume() {
       </ul>
       <h2>BackEnd</h2>
       <ul>
-        <li>REST API</li>
+        <li>RESTful API</li>
         <li>Javascript</li>
       </ul>
       <h5><a href="../../assets/ResumeFile/Zhonghui Zhangcover_letter.docx" download>Resume Download</a></h5>
